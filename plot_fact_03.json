@@ -1,0 +1,1004 @@
+{
+  "facts": [
+    {
+      "fact_id": "plot_0_fact_1",
+      "fact_type": "event",
+      "subject": "连",
+      "predicate": "告知",
+      "object": "司和艾拉需要同居的规定",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司办公室",
+      "participants": ["水柿司", "艾拉", "连", "满", "扎克", "雪莉"],
+      "narrative_text": "在SAI公司工作第十天的午休后,事务员连告诉司,作为搭档的执行者和辅助员有着需要两人共同生活的规定,司从今天开始就要和艾拉住在一起",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "震惊",
+        "plot_function": "重要转折点"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_2",
+      "fact_type": "character_state",
+      "subject": "水柿司",
+      "predicate": "感到",
+      "object": "震惊和措手不及",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司办公室",
+      "participants": ["水柿司", "连"],
+      "narrative_text": "司对突然被告知要和艾拉同居的消息感到非常震惊,完全没有任何心理准备",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "慌乱震惊",
+        "plot_function": "角色反应"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_3",
+      "fact_type": "relationship",
+      "subject": "满",
+      "predicate": "反对",
+      "object": "司和艾拉同居",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司办公室",
+      "participants": ["满", "水柿司", "艾拉", "扎克"],
+      "narrative_text": "满一脸不满地表示反对司和艾拉住在一起,认为司这个年纪的男生没什么自制力",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "不满担忧",
+        "plot_function": "冲突制造"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_4",
+      "fact_type": "dialogue",
+      "subject": "雪莉",
+      "predicate": "说明",
+      "object": "自己也在和康隆同居",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司办公室",
+      "participants": ["雪莉", "司"],
+      "narrative_text": "雪莉说自己和康隆也是住在一起，只是康隆平时很少回家，通常都是自己一个人住，并告诫司不要学康隆那种生活作风，要好好工作，保持身体健康。",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "说明教育",
+        "plot_function": "事实补充"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_5",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "搬入",
+      "object": "艾拉的员工宿舍房间",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "员工宿舍最高层",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "下班后司从总公司走了约15分钟到达员工宿舍,艾拉的房间在最高层的一角,装修很符合女孩子的风格",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张忐忑",
+        "plot_function": "场景转换"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_6",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "变得",
+      "object": "冷淡无反应",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "艾拉的宿舍房间",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉走进屋内后立刻脱掉制服,径直走到充电装置坐下,用空空的眼睛盯着自己的膝盖一动也不动,对司的呼唤完全没有反应",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "诡异冷漠",
+        "plot_function": "核心谜团"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_7",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "尝试与",
+      "object": "艾拉对话但失败",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 2
+      },
+      "spatial_context": "艾拉的宿舍房间",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司打完电话给家人后,尝试询问艾拉是否饿了想吃东西,但艾拉毫无反应,等了2个小时后艾拉才发出声音问要不要喝茶",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "困惑无奈",
+        "plot_function": "矛盾深化"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_8",
+      "fact_type": "character_state",
+      "subject": "水柿司",
+      "predicate": "感到",
+      "object": "困惑和被讨厌",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 2
+      },
+      "spatial_context": "艾拉的宿舍房间",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "面对艾拉在宿舍的冷淡态度,司感到非常困惑,不知道为什么会这样,那天晚上饭也没吃澡也没洗就睡了",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "沮丧困惑",
+        "plot_function": "情绪积累"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "被发现",
+      "object": "在食堂看艾拉的日记",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍食堂",
+      "participants": ["水柿司", "满", "扎克", "艾露"],
+      "narrative_text": "第二天早上司在宿舍食堂吃早饭时看艾拉的日记,试图了解她,结果被满、扎克和艾露发现",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "尴尬",
+        "plot_function": "冲突引发"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_2",
+      "fact_type": "relationship",
+      "subject": "满",
+      "predicate": "指责",
+      "object": "司看艾拉日记",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍食堂",
+      "participants": ["满", "水柿司"],
+      "narrative_text": "满用恐怖的表情指责司看艾拉的日记,认为他打算对艾拉做下流的事情",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "愤怒指责",
+        "plot_function": "冲突展现"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_3",
+      "fact_type": "event",
+      "subject": "艾露",
+      "predicate": "提出",
+      "object": "帮助司和艾拉拉近距离的计划",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍食堂",
+      "participants": ["艾露", "水柿司"],
+      "narrative_text": "艾露表示支持司,并提出幸运色狼大作战计划帮助他和艾拉拉近距离,条件是让艾拉穿上自己制作的哥特萝莉服装",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "兴奋热情",
+        "plot_function": "剧情推进"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_4",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "意外撞见",
+      "object": "艾拉洗澡",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "宿舍浴室",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "司回到房间打算洗澡时打开浴室门,正好艾拉洗完澡出来,司用手蒙着眼睛喊没看到,但艾拉毫无反应,满又正好进门目击",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "尴尬惊慌",
+        "plot_function": "误会制造"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_5",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "在办公室",
+      "object": "恢复正常反应",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 2
+      },
+      "spatial_context": "SAI公司办公室",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "午休时艾拉像平常一样说话给司端茶,在办公室又恢复了正常的反应,这让司感到十分不解",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "困惑",
+        "plot_function": "谜团深化"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_1",
+      "fact_type": "event",
+      "subject": "连",
+      "predicate": "建议",
+      "object": "司通过锻炼肌肉展现可靠",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "公司办公区域",
+      "participants": ["连", "水柿司"],
+      "narrative_text": "司向连咨询艾拉的问题,连建议他锻炼肌肉,向艾拉表现出是个可靠的男人,这样她说不定就会对他敞开心扉",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "建议指导",
+        "plot_function": "方案提出"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_2",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "尝试",
+      "object": "在宿舍锻炼肌肉",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 1
+      },
+      "spatial_context": "艾拉的宿舍房间",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "当晚司在宿舍脱掉上衣拼命锻炼举哑铃,结果因出汗手滑,沉重的哑铃飞到空中狠狠撞到墙上,满听到巨响进门看到司赤裸上身浑身是汗",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尴尬搞笑",
+        "plot_function": "失败展现"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_3",
+      "fact_type": "event",
+      "subject": "科长",
+      "predicate": "建议",
+      "object": "司给艾拉做饭",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 2
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["科长", "水柿司"],
+      "narrative_text": "第二天午休司告诉众人连的方法失败,科长建议最近会做饭的男人挺受欢迎,给艾拉做点吃的她一定会高兴",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "鼓励建议",
+        "plot_function": "新方案"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_4",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "做饭时",
+      "object": "引发火灾触发灭火装置",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 3
+      },
+      "spatial_context": "宿舍厨房",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "司第一次做菜挑战牛排,倒酒点火时不小心倒太多,巨大的火焰冒上来,平底锅连着牛排甩了出去,房间的自动灭火装置开始大量喷水直对着司,满又进门目击",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "慌乱狼狈",
+        "plot_function": "失败升级"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_5",
+      "fact_type": "event",
+      "subject": "康斯坦斯",
+      "predicate": "建议",
+      "object": "司表现得绅士保护艾拉",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 4
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["康斯坦斯", "水柿司"],
+      "narrative_text": "第三天午休司告诉大家科长的方法也失败,康斯坦斯建议对女士得表现得绅士一点,特别是艾拉非常容易摔倒,在这方面多加注意会比较好",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "认真建议",
+        "plot_function": "方案三"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_6",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "飞扑接",
+      "object": "艾拉脱落的衣服但撞墙",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 5
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "当晚艾拉走向厕所时被地板上自己的衣服绊了一下,司灵光一闪急忙冲过去飞扑捡起衣服,但因速度太快狠狠撞到墙上发出巨响,满进门看到司手上拿着艾拉的制服裙子缠在脖子上",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尴尬痛苦",
+        "plot_function": "失败再现"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_7",
+      "fact_type": "event",
+      "subject": "扎克",
+      "predicate": "建议",
+      "object": "司送花给艾拉",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 6
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["扎克", "水柿司"],
+      "narrative_text": "第四天午休司告诉大家康斯坦斯的方法也失败,扎克建议送艾拉一束花作为礼物让她高兴起来",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "轻松建议",
+        "plot_function": "方案四"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_8",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "送花时",
+      "object": "遭遇蜜蜂被满打飞",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 7
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "当晚司买了玫瑰花单膝跪地献给艾拉,结果一只巨大的蜜蜂从花束中飞出在房间乱飞,蜜蜂停在司鼻子上,满冲进门一拳打飞了司",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "惊险搞笑",
+        "plot_function": "失败继续"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_9",
+      "fact_type": "event",
+      "subject": "连",
+      "predicate": "建议",
+      "object": "司改变打扮戴面具",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 8
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["连", "水柿司"],
+      "narrative_text": "第五天午休司告诉大家扎克的方法也失败,连建议为了解除艾拉的警戒试试看和以往不同的打扮再戴个面具",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尝试创新",
+        "plot_function": "方案五"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_10",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "穿女装",
+      "object": "撞到桌子摔茶具",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 9
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "当晚司穿上从艾露借来的哥特萝莉服装用极为中二的语气说台词,结果小腿突然撞到桌子,伴随着茶具落地摔碎的声音疼得大叫,满冲进门看到司女装的样子",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "荒诞尴尬",
+        "plot_function": "失败极致"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_11",
+      "fact_type": "event",
+      "subject": "康隆",
+      "predicate": "建议",
+      "object": "司强行推倒艾拉伪装成事故",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 10
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["康隆", "水柿司"],
+      "narrative_text": "第六天午休司告诉大家连的方法又失败,康隆凑到司耳边小声说杀手锏就是强行推倒她,但是要巧妙地将其伪装成事故,女人可是会相信这种借口的生物",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "危险暗示",
+        "plot_function": "不良建议"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_12",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "意外与",
+      "object": "艾拉一起摔倒被满目击",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 11
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["水柿司", "艾拉", "满"],
+      "narrative_text": "当晚艾拉端茶时被地板上自己的衣服绊了一下摇晃起来,司急忙上前抱住她,茶壶打翻在地茶水洒了一地,两人如同跳舞一般相互拉扯后一起倒在地上,司趴在艾拉身上,满在最不该进门的时候走了进来",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尴尬绝望",
+        "plot_function": "误会顶峰"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_13",
+      "fact_type": "character_state",
+      "subject": "满",
+      "predicate": "对司的评价",
+      "object": "从变态升级到宇宙第一变态",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 12
+      },
+      "spatial_context": "公司休息室",
+      "participants": ["满", "扎克", "水柿司"],
+      "narrative_text": "第七天午休气氛凝重,扎克告诉司满说他是超级无敌大变态,后来又升级到宇宙第一变态",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "沮丧绝望",
+        "plot_function": "失败总结"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_1",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "找司谈话",
+      "object": "关于艾拉的事情",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "公司饮料售卖机处",
+      "participants": ["香月", "水柿司"],
+      "narrative_text": "香月主动找到司谈论艾拉无法好好相处的问题,告诉他艾拉在私人生活上对谁都是这副样子,可能是那孩子保护自己的方法",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关怀理解",
+        "plot_function": "真相揭示"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_2",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "建议",
+      "object": "司用工作时的态度邀约艾拉",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "公司饮料售卖机处",
+      "participants": ["香月", "水柿司"],
+      "narrative_text": "香月建议司试着把艾拉约出去,只要用平时工作时候的态度去试着邀请她就行,并鼓励说司和艾拉应该很合得来",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "鼓励支持",
+        "plot_function": "转机出现"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_3",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "成功邀请",
+      "object": "艾拉明天一起挑选礼物",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "回公司的车里",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "在回公司的路上车里只有司和艾拉两人,司以想给工作上帮了自己不少的人送礼物为由,成功邀请艾拉明天一起去挑选礼物,艾拉答应了",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张期待",
+        "plot_function": "突破成功"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "给艾拉买",
+      "object": "带蝴蝶结的女士便服",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "商场女装区",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "周末约会当天司发现艾拉穿着工作服,得知她没有合适的衣服后,带她去商场挑选了一套带蝴蝶结的女士便服让她试穿",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "体贴关心",
+        "plot_function": "约会开始"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_2",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "在试衣间",
+      "object": "把衣服弄坏了",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "商场试衣间",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉进试衣间后很久没出来,司听到她急切呼救,进去发现艾拉因为没穿过类似服装不知道怎么穿,衣服以不合理的方式缠在身上像被蛛网缚住的蝴蝶,最后衣服破了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "楚楚可怜",
+        "plot_function": "萌点展现"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_3",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "请艾拉帮忙",
+      "object": "挑选香草作为礼物",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "商场顶层香草店",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司决定改送香草作为礼物,两人来到商场顶层的香草店,艾拉戴上眼镜认真地花了相当长的时间仔细斟酌应该买哪种香草",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温馨专注",
+        "plot_function": "互动深化"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_4",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "为自己切实",
+      "object": "帮上了司的忙感到开心",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "从香草店出来",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "走出店门时已是黄昏,司感谢艾拉买到了好东西,艾拉微笑着说能帮上他的忙真是太好了,表现出由衷的开心",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "由衷喜悦",
+        "plot_function": "关系进展"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_5",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "邀请艾拉",
+      "object": "去看游乐园",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "从购物中心看到游乐园",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司无意中透过树林看到远处游乐园的摩天轮,想起初次见面那天也看到了在城市灯火中闪耀的摩天轮,于是转头问艾拉要不要去看看",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "期待浪漫",
+        "plot_function": "冲突前奏"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_6",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "听到游乐园",
+      "object": "脸上笑容消失",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "前往游乐园的路上",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉听到去游乐园的提议后脸上的笑容消失了,仿佛预示着什么不好的事情,从购物中心走到游乐园要20分钟,途中艾拉一直不说话",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "不安预兆",
+        "plot_function": "转折铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_7",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "质问",
+      "object": "明明都买好礼物为什么要来游乐园",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "到达游乐园门口时天已经快黑了,艾拉突然停下来问司明明都买好礼物了为什么要到这里来",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "疑惑警惕",
+        "plot_function": "冲突爆发"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_8",
+      "fact_type": "dialogue",
+      "subject": "水柿司",
+      "predicate": "坦白",
+      "object": "想送礼物的人就是艾拉",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司决定按自己的想法坦率地说出来,告诉艾拉其实想送礼物的人就是她,作为成为搭档的纪念",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "真诚坦白",
+        "plot_function": "真相揭露"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_9",
+      "fact_type": "dialogue",
+      "subject": "水柿司",
+      "predicate": "表达想要",
+      "object": "在生活中也留下和艾拉的回忆",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司有点失落地说别那样说,想像今天这样在生活中也留下和艾拉的回忆",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "真挚期盼",
+        "plot_function": "情感表达"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_10",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "听到回忆",
+      "object": "红色瞳孔收缩露出痛苦神色",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉听到回忆后红色的瞳孔一阵收缩,眼中映照出夕阳下摩天轮的影子,露出痛苦的神色,似乎是被触中了某些心事,脸上浮现出悲伤的表情",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "痛苦悲伤",
+        "plot_function": "核心痛点"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_11",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "拒绝说",
+      "object": "出于这种目的就不能继续了",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉用冰冷的表情和语气说出了好像不带任何人类情感的话语,称错误出于这种目的的话接下来就不能继续了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "冰冷拒绝",
+        "plot_function": "冲突高潮"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_12",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "说自己",
+      "object": "不是为了能在游乐园玩才被制作出来",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉仿佛触碰到了某种开关,话语中充满了拒绝的意味,说因为自己不是为了能在游乐园里玩才被制作出来的",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "痛苦拒绝",
+        "plot_function": "身份认知"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_13",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "独自",
+      "object": "径直回宿舍了",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "从游乐园到宿舍",
+      "participants": ["艾拉"],
+      "narrative_text": "艾拉不愿继续往前走,而是转过身一个人向车站走去,独自径直回宿舍了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "决绝离开",
+        "plot_function": "分离时刻"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_14",
+      "fact_type": "character_state",
+      "subject": "水柿司",
+      "predicate": "坐在游乐园",
+      "object": "怅然神伤思考回忆的意义",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口长椅",
+      "participants": ["水柿司"],
+      "narrative_text": "司一个人回到宿舍时天已经完全黑了,内心十分消沉,苦闷地坐在游乐园门口的长椅上思考回忆的意义",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "怅然消沉",
+        "plot_function": "反思时刻"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_15",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "买了",
+      "object": "一对吉祥物钥匙扣",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "游乐园门口",
+      "participants": ["水柿司"],
+      "narrative_text": "司偶然发现有卖纪念品的吉祥物人偶在给孩子们发布娃娃钥匙扣,心血来潮地给自己和艾拉买了一对吉祥物钥匙扣",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "希望寄托",
+        "plot_function": "象征物品"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_16",
+      "fact_type": "scene",
+      "subject": "艾拉",
+      "predicate": "独自站在",
+      "object": "宿舍门口等司",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍门口",
+      "participants": ["艾拉"],
+      "narrative_text": "司回到宿舍时走廊上的灯已经关了,然而宿舍门口有一个身影,是艾拉一个人背靠着墙站着没有进屋,星光点缀着她含泪的双眸,月色映照着她悲伤的侧脸",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤等待",
+        "plot_function": "转折契机"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_17",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "将礼物",
+      "object": "钥匙扣交给艾拉",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍门口",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "司下定决心为自己的谎言道歉,举起手中的钥匙扣稍稍用力塞进艾拉的手里,艾拉有点为难的表情但没有拒绝",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "真诚弥补",
+        "plot_function": "和解开始"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_18",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "向司",
+      "object": "道歉先走了",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍门口",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉眼泪汪汪地抬起头说司不好意思刚才先走了,司也向她道歉强行邀请她",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "相互道歉",
+        "plot_function": "冰释前嫌"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_19",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "请艾拉",
+      "object": "用香草给自己泡茶",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "为了缓解气氛,司用轻松的口吻举起装有香草的纸袋问能用这个给他泡点茶吗,艾拉答应了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温馨和解",
+        "plot_function": "关系修复"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_20",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "为司",
+      "object": "泡了香草茶",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍房间",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "两人走进屋里,艾拉很快准备好了香草茶,把沏好的香草茶倒进茶杯递给司,司接过茶喝下一口香草的清香在口中蔓延开来,艾拉微笑起来",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温暖治愈",
+        "plot_function": "关系深化"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_21",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "深夜",
+      "object": "呆呆看着司送的礼物",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍充电装置",
+      "participants": ["艾拉"],
+      "narrative_text": "深夜时分司已经在阁楼上睡着了,艾拉抱膝坐在充电装置上,呆呆地看着手上司送给他的礼物钥匙扣,一种未曾有过的感觉在心底悄然流淌",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "感动珍惜",
+        "plot_function": "情感升华"
+      }
+    }
+  ]
+}

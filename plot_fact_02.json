@@ -1,0 +1,1084 @@
+{
+  "facts": [
+    {
+      "fact_id": "plot_0_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "遇见",
+      "object": "员工康隆",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "康隆"],
+      "narrative_text": "水柿司在公司遇见了员工康隆,这是他们的初次见面",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "轻松日常",
+        "plot_function": "引入新角色"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_2",
+      "fact_type": "dialogue",
+      "subject": "康隆",
+      "predicate": "询问",
+      "object": "司走后门入职的事",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "康隆"],
+      "narrative_text": "康隆直接询问司是否通过部长关系走后门进入公司,让司感到尴尬",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "尴尬",
+        "plot_function": "揭示背景信息"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_3",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "倒茶给",
+      "object": "科长",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["艾拉", "山野边科长"],
+      "narrative_text": "科长因为胃痛,艾拉给他倒了一杯香草茶",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "日常温馨",
+        "plot_function": "展现角色性格"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_4",
+      "fact_type": "event",
+      "subject": "康隆",
+      "predicate": "抢走",
+      "object": "艾拉给科长的茶",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["康隆", "艾拉", "科长"],
+      "narrative_text": "康隆非常自然地接过艾拉端给科长的茶并喝掉,还夸赞艾拉泡的茶好喝",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "幽默随意",
+        "plot_function": "展现角色性格"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_5",
+      "fact_type": "relationship",
+      "subject": "司",
+      "predicate": "是搭档",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "艾拉", "康隆"],
+      "narrative_text": "康隆提到司是艾拉一组的新人,确认了两人的搭档关系",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "介绍性",
+        "plot_function": "建立核心关系"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_6",
+      "fact_type": "event",
+      "subject": "雪莉",
+      "predicate": "阻止",
+      "object": "康隆旷工",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["康隆", "雪莉"],
+      "narrative_text": "康隆打算继续旷工,被他的搭档雪莉拦住并交给他拖欠的工作",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "严肃",
+        "plot_function": "展现角色关系"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_7",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "尴尬和困惑",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司"],
+      "narrative_text": "司因为走后门的事被公开提及而感到尴尬,对这个特殊的部门感到困惑",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "尴尬不安",
+        "plot_function": "展现内心活动"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "用奇怪的气势吓跑",
+      "object": "马科斯和柳裕",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["艾拉", "马科斯", "柳裕", "司"],
+      "narrative_text": "艾拉在回收马科斯时表现出奇怪的气势,将马科斯和他的所有者柳裕吓得逃跑",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "紧张喜剧",
+        "plot_function": "情节转折"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_2",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "摔倒撞墙",
+      "object": "自己",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "汽修厂后门",
+      "participants": ["艾拉", "司"],
+      "narrative_text": "艾拉在追赶过程中被钢管绊倒,以惊人的幅度飞出去狠狠撞在墙上流鼻血",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "紧张意外",
+        "plot_function": "制造冲突"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_3",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "帮助",
+      "object": "艾拉止血",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "汽修厂后门",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司赶快上去扶起艾拉,用手帕帮她擦拭鼻血,两人之间笼罩着温暖的氛围",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "温暖关怀",
+        "plot_function": "关系发展"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_4",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "责备",
+      "object": "司",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["满", "司"],
+      "narrative_text": "满看着司提交的报告书愤怒地大发雷霆,认为连续三次被拒签是因为司没有和艾拉建立信赖关系",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "愤怒紧张",
+        "plot_function": "冲突高潮"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_5",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "质疑",
+      "object": "司走后门入职",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["满", "司"],
+      "narrative_text": "满嘲讽司是走后门进来的,毫无考验就进公司,简直派不上用场",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "嘲讽鄙视",
+        "plot_function": "深化矛盾"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_6",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "自责和无奈",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司"],
+      "narrative_text": "司低着头小声道歉,虽然难过但无法反驳满说的事实",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "沮丧自责",
+        "plot_function": "展现内心"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_7",
+      "fact_type": "character_state",
+      "subject": "满",
+      "predicate": "感到",
+      "object": "后悔",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 2
+      },
+      "spatial_context": "办公室",
+      "participants": ["满"],
+      "narrative_text": "满一个人嘟囔自语,被愧疚感击倒,趴在桌子上觉得自己说过头了",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "愧疚后悔",
+        "plot_function": "性格深化"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_8",
+      "fact_type": "event",
+      "subject": "康隆和扎克",
+      "predicate": "开玩笑",
+      "object": "满喜欢司",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 2
+      },
+      "spatial_context": "办公室",
+      "participants": ["康隆", "扎克", "满"],
+      "narrative_text": "康隆过火地开玩笑说满和司是'嘴上说着讨厌其实很喜欢'的关系,让满火冒三丈",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "幽默调侃",
+        "plot_function": "缓解气氛"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_1",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "邀请",
+      "object": "司去酒吧",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室后面的自动贩卖机",
+      "participants": ["香月", "司"],
+      "narrative_text": "香月用半强迫的态度邀请司下班后一起去酒吧,露出可怕的表情让司无法拒绝",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张幽默",
+        "plot_function": "推进剧情"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_2",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "询问",
+      "object": "司和艾拉的相处情况",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 1
+      },
+      "spatial_context": "酒吧",
+      "participants": ["香月", "司"],
+      "narrative_text": "香月在酒吧喝酒后询问司和艾拉有没有好好相处,是否完全不清楚艾拉在想什么",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关切探询",
+        "plot_function": "信息披露"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_3",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "希望",
+      "object": "司能和艾拉好好相处",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 1
+      },
+      "spatial_context": "酒吧",
+      "participants": ["香月", "司"],
+      "narrative_text": "香月对艾拉十分了解，知道两人犯错的原因主要在艾拉身上，即便如此，也希望司能和艾拉一起好好相处。",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "诚挚认真",
+        "plot_function": "细节伏笔"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_4",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "表达",
+      "object": "工作困惑",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 2
+      },
+      "spatial_context": "酒吧",
+      "participants": ["香月", "司"],
+      "narrative_text": "香月借酒浇愁说自己工作了十年左右,到现在还无法理解什么才是正确的,不知道要怎么撕裂回忆",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "迷茫痛苦",
+        "plot_function": "深化主题"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_5",
+      "fact_type": "character_state",
+      "subject": "香月",
+      "predicate": "感到",
+      "object": "对工作的迷茫和痛苦",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 2
+      },
+      "spatial_context": "酒吧",
+      "participants": ["香月"],
+      "narrative_text": "香月手撑着额头,回想工作经历,表达即使工作十年也无法理解什么是正确的痛苦",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "痛苦迷茫",
+        "plot_function": "角色深化"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_6",
+      "fact_type": "event",
+      "subject": "康隆",
+      "predicate": "送",
+      "object": "醉酒的香月回家",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 2
+      },
+      "spatial_context": "酒吧",
+      "participants": ["康隆", "香月", "司"],
+      "narrative_text": "香月喝醉后,康隆表示会负责把她送回去,让司先走",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关怀照顾",
+        "plot_function": "展现关系"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "发现",
+      "object": "艾拉在个体测试间训练",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "个体测试间",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司看到行动计划表上艾拉晚上在个体测试间训练,决定前去参观",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "好奇关切",
+        "plot_function": "情节转折"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_2",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "遇见",
+      "object": "海松艾露和铁黑干次郎",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试间",
+      "participants": ["司", "海松艾露", "铁黑干次郎"],
+      "narrative_text": "司在个体测试间遇到了工程部的专属工程师海松艾露和她的师傅铁黑干次郎",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "正式介绍",
+        "plot_function": "角色引入"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_3",
+      "fact_type": "dialogue",
+      "subject": "艾露",
+      "predicate": "解释",
+      "object": "艾拉频繁测试的原因",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试间",
+      "participants": ["司", "海松艾露"],
+      "narrative_text": "艾露告诉司,艾拉自从和司搭档后因为负担变大导致维护次数增加,经常来测试间",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "解释说明",
+        "plot_function": "信息披露"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_4",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "在水池中进行",
+      "object": "潜水测试",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试间深水池",
+      "participants": ["艾拉"],
+      "narrative_text": "艾拉正在深水池里进行潜水测试,要把绳子系在水池最深处的把手上,期间不小心被绳子缠住脚",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "紧张",
+        "plot_function": "展现努力"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_5",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "坦白",
+      "object": "自己拖后腿的事实",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 2
+      },
+      "spatial_context": "水池边",
+      "participants": ["艾拉", "司"],
+      "narrative_text": "艾拉承认时隔那么久回到现场但身体却不能随心所欲地行动,现在的她是在拖着司的后腿",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤自责",
+        "plot_function": "情感转折"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_6",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "提议",
+      "object": "自己负责与所有者交涉",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 2
+      },
+      "spatial_context": "水池边",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司提议由自己来负责和所有者进行交涉的工作,在艾拉找回状态之前就算依靠他一些也没有关系",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温暖支持",
+        "plot_function": "关系深化"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_7",
+      "fact_type": "relationship",
+      "subject": "司",
+      "predicate": "愿意支持",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 2
+      },
+      "spatial_context": "水池边",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司主动承担艾拉的工作,鼓励她早点恢复状态,两人的距离又拉近了一点",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温暖感动",
+        "plot_function": "关系发展"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_8",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "感到",
+      "object": "感激和决心",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 2
+      },
+      "spatial_context": "水池边",
+      "participants": ["艾拉"],
+      "narrative_text": "艾拉被司的真诚打动,下定决心表示会努力",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "感动决心",
+        "plot_function": "性格发展"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_1",
+      "fact_type": "character_state",
+      "subject": "满",
+      "predicate": "感到",
+      "object": "后悔和愧疚",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍阳台",
+      "participants": ["满"],
+      "narrative_text": "满深夜在阳台上思考白天的事情,越想心里越堵,觉得之前说的话太过分了",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "愧疚反思",
+        "plot_function": "性格深化"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_2",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "询问",
+      "object": "艾拉最近的工作情况",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 1
+      },
+      "spatial_context": "公司后面的小花圃",
+      "participants": ["满", "艾拉"],
+      "narrative_text": "满来到艾拉种植香草的花圃,询问她和司最近的工作情况",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关切",
+        "plot_function": "推进剧情"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_3",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "澄清",
+      "object": "工作不顺是自己的原因",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 1
+      },
+      "spatial_context": "公司后面的小花圃",
+      "participants": ["满", "艾拉"],
+      "narrative_text": "艾拉打断满的话,告诉她拖后腿的其实是自己,司并没有错",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "诚恳",
+        "plot_function": "真相揭示"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_4",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "向康斯坦斯请教",
+      "object": "与所有者沟通的方法",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 2
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "康斯坦斯"],
+      "narrative_text": "司向康斯坦斯请教第一次和回收对象的所有者取得联系时应该注意什么,学习沟通方法",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "认真学习",
+        "plot_function": "能力提升"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_5",
+      "fact_type": "dialogue",
+      "subject": "康斯坦斯",
+      "predicate": "传授",
+      "object": "倾听和换位思考的方法",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 2
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "康斯坦斯"],
+      "narrative_text": "康斯坦斯教导司要倾听对方的说法并通过换位思考推测对方的想法,但不要为了工作去实现所有者的一切愿望",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "教导",
+        "plot_function": "方法传授"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_6",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "告知",
+      "object": "部门独有的回收理念",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 3
+      },
+      "spatial_context": "走廊",
+      "participants": ["满", "司"],
+      "narrative_text": "满告诉司部门的核心理念是要认真理解Giftia和所有者两者的想法,这是除了他们之外不会有人这么做的方法",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "严肃教导",
+        "plot_function": "主题强化"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_7",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "向司道歉",
+      "object": "之前的过分言辞",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 3
+      },
+      "spatial_context": "走廊",
+      "participants": ["满", "司"],
+      "narrative_text": "满停下脚步回头对司说,之前对他说了很过分的话,表示抱歉",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "真诚道歉",
+        "plot_function": "关系修复"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_8",
+      "fact_type": "relationship",
+      "subject": "满",
+      "predicate": "认可",
+      "object": "司",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 3
+      },
+      "spatial_context": "走廊",
+      "participants": ["满", "司"],
+      "narrative_text": "满肯定了司为搭档着想的初衷,告诉他部门的工作方法,并为错怪他的事道歉",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "和解认可",
+        "plot_function": "关系转折"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "制作",
+      "object": "工作手册",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["司"],
+      "narrative_text": "司熬夜制作适合自己的工作手册,希望这种方法能够让艾拉的负担稍微减轻一点",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "认真努力",
+        "plot_function": "展现成长"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_2",
+      "fact_type": "dialogue",
+      "subject": "康隆",
+      "predicate": "告知",
+      "object": "Giftia没有遗忘功能",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["康隆", "司"],
+      "narrative_text": "康隆告诉司Giftia没有'空白期'这种概念,原本就没有'忘却'这种功能",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "严肃",
+        "plot_function": "关键信息披露"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_3",
+      "fact_type": "dialogue",
+      "subject": "康隆",
+      "predicate": "揭示",
+      "object": "艾拉无法恢复工作状态",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["康隆", "司"],
+      "narrative_text": "康隆严肃地说出残酷的事实:训练什么的毫无意义,艾拉从今往后一直都会保持那个样子",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "残酷震撼",
+        "plot_function": "核心真相"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_4",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "再次观看",
+      "object": "艾拉的训练",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试房间水池边",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司来到个体测试房间,看到艾拉在水池边反复练习打绳结,一次次失败又一次次重来",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "感动震撼",
+        "plot_function": "情感高潮"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_5",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "展现",
+      "object": "不愿放弃的执着",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试房间水池边",
+      "participants": ["艾拉"],
+      "narrative_text": "艾拉明知训练是徒劳,但还是近乎固执地努力着,她的动作像是一场永不停歇的仪式,每一次尝试都带着不愿放弃的执着",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲壮坚持",
+        "plot_function": "性格升华"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_6",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "敬畏和感动",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试房间",
+      "participants": ["司"],
+      "narrative_text": "司目睹艾拉的努力,心中泛起一丝难以名状的情绪,不是怜悯也不是同情,而是一种近乎敬畏的感动",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "感动敬畏",
+        "plot_function": "情感升华"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_7",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "理解",
+      "object": "艾拉努力的意义",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 1
+      },
+      "spatial_context": "个体测试房间",
+      "participants": ["司"],
+      "narrative_text": "司明白了艾拉的坚持不是为了结果,而是为了证明:努力本身,就是她存在的意义",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "顿悟",
+        "plot_function": "主题升华"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "完成",
+      "object": "工作手册",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司将完成的工作手册交给艾拉,决定今天就去试试效果",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "期待",
+        "plot_function": "行动开始"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_2",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "再次拜访",
+      "object": "马科斯和柳裕",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["司", "艾拉", "马科斯", "柳裕"],
+      "narrative_text": "司和艾拉又一次来到马科斯和柳裕所在的汽修厂,这次由司来负责和所有者的交涉",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "期待紧张",
+        "plot_function": "实践检验"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_3",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "成功说服",
+      "object": "柳裕签署同意书",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["司", "柳裕"],
+      "narrative_text": "司用自己的方法向柳裕说明回收事项,在他的努力下,柳裕同意在同意书上签字",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "成功欣慰",
+        "plot_function": "成果展现"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_4",
+      "fact_type": "event",
+      "subject": "马科斯",
+      "predicate": "展示",
+      "object": "学会的汽修技术",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["马科斯", "柳裕", "司", "艾拉"],
+      "narrative_text": "在柳裕的指导下,马科斯独自完成了汽车的喷漆工作,他娴熟的工艺技术让众人赞叹不已",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "自豪感动",
+        "plot_function": "情感铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_5",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "回收",
+      "object": "马科斯",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["艾拉", "马科斯", "柳裕"],
+      "narrative_text": "艾拉像之前那样在马科斯耳边说了什么,然后启动了记忆清除程序,马科斯被收进回收箱",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "悲伤离别",
+        "plot_function": "任务完成"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_6",
+      "fact_type": "event",
+      "subject": "柳裕",
+      "predicate": "目送",
+      "object": "马科斯的离开",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["柳裕", "马科斯"],
+      "narrative_text": "柳裕目送着自己这个小徒弟的离开,夕阳映照着他稍显落寞的脸庞,他完成了最终签名",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "落寞不舍",
+        "plot_function": "情感升华"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_7",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "完成",
+      "object": "第一次独立回收工作",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "汽修厂",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "改变方法后的第一个回收工作顺利完成,司和艾拉用自己的方式成功完成了任务",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "成就欣慰",
+        "plot_function": "阶段胜利"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_1",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "查看",
+      "object": "司的报告书",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["香月", "康隆"],
+      "narrative_text": "深夜加班的香月看着司的报告书,露出了满意的表情,认为两人工作状态不错",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "满意",
+        "plot_function": "情况总结"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_2",
+      "fact_type": "dialogue",
+      "subject": "康隆",
+      "predicate": "质问",
+      "object": "香月隐瞒艾拉寿命的事",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["康隆", "香月"],
+      "narrative_text": "康隆指出香月没有告诉司艾拉的寿命只剩下2000个小时的事情",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "严肃质疑",
+        "plot_function": "核心悬念揭示"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_3",
+      "fact_type": "scene",
+      "subject": "气氛",
+      "predicate": "变得",
+      "object": "凝固和沉重",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室",
+      "participants": ["香月", "康隆"],
+      "narrative_text": "空气在这一瞬间悄然凝固,似乎预告着终将到来的结局",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "沉重压抑",
+        "plot_function": "氛围营造"
+      }
+    }
+  ]
+}

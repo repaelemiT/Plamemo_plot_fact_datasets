@@ -1,0 +1,844 @@
+{
+  "facts": [
+    {
+      "fact_id": "plot_0_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "被录用",
+      "object": "SAI公司终端服务部门",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "购物中心电梯",
+      "participants": ["水柿司"],
+      "narrative_text": "水柿司因高考失利,经父亲介绍被SAI公司临时决定录用,准备前往购买正装以便实习",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "期待与紧张",
+        "plot_function": "故事起点"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_2",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "初次相遇",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "购物中心电梯内",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "在冬日购物中心的电梯里,水柿司遇见了银发红瞳、正在流泪的少女艾拉,两人如梦幻般相遇,水柿司一见倾心",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "梦幻、浪漫、悲伤",
+        "plot_function": "关键转折点、命运邂逅"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_3",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "流泪注视",
+      "object": "摩天轮",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "购物中心电梯内",
+      "participants": ["艾拉"],
+      "narrative_text": "艾拉独自在电梯中默默流泪,注视着外面游乐场闪耀彩灯的摩天轮,表现出悲伤和孤独",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤、孤独",
+        "plot_function": "角色情感铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "到达",
+      "object": "SAI公司总部大楼",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司总部大楼前台",
+      "participants": ["水柿司", "接待员小姐"],
+      "narrative_text": "冬日清晨,水柿司来到250米高、50层的SAI公司总部大楼,向接待员询问终端服务部门位置",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "紧张期待",
+        "plot_function": "场景转换"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_2",
+      "fact_type": "dialogue",
+      "subject": "接待员小姐",
+      "predicate": "告知",
+      "object": "终端服务部门在大楼正后方",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司总部大楼前台",
+      "participants": ["水柿司", "接待员小姐"],
+      "narrative_text": "接待员小姐以完美的职业素养告诉水柿司,终端服务部门位于大楼正后方的独立平房",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "专业礼貌",
+        "plot_function": "情节推进"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_3",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "初次见面",
+      "object": "第一终端服务部门全体员工",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "山野边科长", "绢岛满", "康斯坦斯", "雪莉", "扎克", "土器连"],
+      "narrative_text": "水柿司到达终端服务部门,与科长、香月等员工初次见面,了解到工作需要两人一组搭档合作",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "尴尬紧张",
+        "plot_function": "角色介绍"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_4",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "介绍",
+      "object": "Giftia和回收工作",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "香月", "康斯坦斯"],
+      "narrative_text": "香月向水柿司解释Giftia是装载人工心灵的人形机器人,寿命只有81920小时(约9年4个月),超过期限人格和记忆会崩坏,需要终端服务部门回收",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "严肃认真",
+        "plot_function": "世界观设定揭示"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_5",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "出现在",
+      "object": "第一终端服务部门办公室",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "水柿司担心没有搭档时,曾在电梯里遇见的银发少女艾拉走进办公室,两人再次相遇",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "惊喜意外",
+        "plot_function": "命运再会"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_6",
+      "fact_type": "relationship",
+      "subject": "水柿司",
+      "predicate": "组成搭档",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["水柿司", "艾拉", "科长", "香月"],
+      "narrative_text": "科长决定让艾拉与水柿司组队,尽管香月强烈反对让艾拉回到一线,但艾拉同意尝试",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "紧张担忧",
+        "plot_function": "关键关系确立"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "打招呼",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公楼楼梯",
+      "participants": ["水柿司", "艾拉"],
+      "narrative_text": "水柿司正式向艾拉打招呼成为搭档,并询问她在电梯里的事情,但艾拉如同机器般重复'Error'",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尴尬困惑",
+        "plot_function": "角色互动开始"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_2",
+      "fact_type": "event",
+      "subject": "扎克",
+      "predicate": "开玩笑",
+      "object": "水柿司握着艾拉的手",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公楼楼梯",
+      "participants": ["水柿司", "艾拉", "扎克", "满"],
+      "narrative_text": "扎克突然出现,调侃水柿司一直握着艾拉的手,制造尴尬氛围",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "轻松调侃",
+        "plot_function": "气氛调节"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_3",
+      "fact_type": "relationship",
+      "subject": "满",
+      "predicate": "担任教育管理人",
+      "object": "水柿司",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公楼楼梯",
+      "participants": ["满", "水柿司"],
+      "narrative_text": "绢岛满介绍自己是水柿司的教育管理人,将指导他的工作",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "认真负责",
+        "plot_function": "关系确立"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_1",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "询问年龄",
+      "object": "水柿司",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "智能汽车内",
+      "participants": ["满", "水柿司", "扎克"],
+      "narrative_text": "在前往工作地点的路上,满询问司的年龄,扎克揭穿满才17岁比司还小",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "轻松幽默",
+        "plot_function": "角色关系深化"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_2",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "解释",
+      "object": "工作分工",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "智能汽车内",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉告诉司,Giftia负责与回收对象及所有者交涉,人类作为监督者监督工作",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "认真专业",
+        "plot_function": "工作机制说明"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_3",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "交给",
+      "object": "日记给水柿司",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "智能汽车内",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "当司询问工作手册时,艾拉拿出自己的日记本交给他作为工作参考",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "贴心认真",
+        "plot_function": "情节推进"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_4",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "警告",
+      "object": "撕裂回忆就是我们的工作",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "智能汽车内",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "艾拉用沉重的语气告诉司,这个工作绝对不会有回报,撕裂回忆就是他们的工作",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "沉重悲伤",
+        "plot_function": "主题揭示"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_1",
+      "fact_type": "event",
+      "subject": "扎克组",
+      "predicate": "回收",
+      "object": "爱德华",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "岩井夫妇家中",
+      "participants": ["扎克", "满", "爱德华", "岩井夫人", "岩井先生"],
+      "narrative_text": "水柿司观摩扎克组回收Giftia爱德华的工作流程,所有者岩井夫妇配合良好,回收过程顺利",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "温馨感伤",
+        "plot_function": "工作示范"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_2",
+      "fact_type": "event",
+      "subject": "扎克",
+      "predicate": "启动终止程序",
+      "object": "爱德华",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "岩井夫妇家门口",
+      "participants": ["扎克", "爱德华", "岩井夫妇"],
+      "narrative_text": "扎克与爱德华戴上配对的终止技能程序戒指,轻轻相合后爱德华失去意识,回收完成",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "庄重悲伤",
+        "plot_function": "技术细节展示"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_3",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "解释",
+      "object": "回收法律规定和处理方式",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "回收途中的汽车内",
+      "participants": ["满", "水柿司"],
+      "narrative_text": "满向司解释回收必须事先获得所有者同意,所有者必须在场见证,以及Giftia的三种处理方式",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "严肃专业",
+        "plot_function": "世界观补充"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_4",
+      "fact_type": "character_state",
+      "subject": "水柿司",
+      "predicate": "误以为",
+      "object": "工作很轻松",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "回收途中的汽车内",
+      "participants": ["水柿司"],
+      "narrative_text": "看到爱德华的顺利回收,水柿司天真地认为这份工作还挺闲的",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "轻松乐观",
+        "plot_function": "反差铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_1",
+      "fact_type": "event",
+      "subject": "满等人",
+      "predicate": "拜访",
+      "object": "千寿太太",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家门口",
+      "participants": ["满", "扎克", "水柿司", "艾拉"],
+      "narrative_text": "第二天满等人去拜访即将被回收的Giftia妮娜的所有者千寿太太,但遭到强硬拒绝",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "紧张对抗",
+        "plot_function": "冲突引入"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_2",
+      "fact_type": "character_state",
+      "subject": "千寿太太",
+      "predicate": "强烈拒绝",
+      "object": "回收妮娜",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家门口",
+      "participants": ["千寿太太", "满", "扎克"],
+      "narrative_text": "性格严肃固执的千寿太太态度非常强硬,连续拒绝满的拜访,不愿意交出妮娜",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "愤怒固执",
+        "plot_function": "主要障碍"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_3",
+      "fact_type": "relationship",
+      "subject": "科长",
+      "predicate": "决定让",
+      "object": "司和艾拉组尝试处理",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["科长", "满", "水柿司", "艾拉"],
+      "narrative_text": "面对千寿太太的固执,满等人决定暂时搁置,让司和艾拉组尝试处理下一个任务",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "无奈妥协",
+        "plot_function": "情节转换"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "身体僵硬无法按门铃",
+      "object": "美智子家门口",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "605号房间门前",
+      "participants": ["艾拉", "水柿司", "满"],
+      "narrative_text": "艾拉重返现场后第一次执行回收任务,因紧张身体僵硬连门铃都无法按下",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张焦虑",
+        "plot_function": "角色困境展现"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_2",
+      "fact_type": "event",
+      "subject": "回收对象和所有者",
+      "predicate": "逃跑",
+      "object": "从阳台跳到隔壁公寓",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "公寓楼605号房间",
+      "participants": ["美智子", "木贼玉耳"],
+      "narrative_text": "司帮艾拉按下门铃后,房内的回收对象美智子和所有者木贼玉耳选择逃跑",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张刺激",
+        "plot_function": "突发事件"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_3",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "从高楼跳下",
+      "object": "追赶回收对象",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "公寓楼阳台",
+      "participants": ["艾拉", "水柿司", "满"],
+      "narrative_text": "为了追上逃跑的回收对象,艾拉从公寓楼阳台一跃而下,摔进垃圾站的篷子上",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "惊险刺激",
+        "plot_function": "行动高潮"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_1",
+      "fact_type": "event",
+      "subject": "水柿司",
+      "predicate": "送",
+      "object": "艾拉到维修部门",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司维修部门",
+      "participants": ["水柿司", "艾拉", "铁黑干次郎"],
+      "narrative_text": "艾拉从楼上摔下后被紧急送到维修部门,接受工程师铁黑干次郎的检查",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "担忧紧张",
+        "plot_function": "事后处理"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_2",
+      "fact_type": "dialogue",
+      "subject": "干次郎",
+      "predicate": "叮嘱",
+      "object": "司要好好监督艾拉",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司维修部门",
+      "participants": ["干次郎", "水柿司"],
+      "narrative_text": "工程师干次郎确认艾拉身体没有大碍,但叮嘱司作为搭档要好好监督艾拉,不要让她乱来",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "严肃关切",
+        "plot_function": "责任强调"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_1",
+      "fact_type": "event",
+      "subject": "科长",
+      "predicate": "收到投诉",
+      "object": "公寓楼附近居民",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["科长", "满", "水柿司"],
+      "narrative_text": "科长收到公寓楼附近居民投诉,抱怨他们弄坏了垃圾站的篷子",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "无奈烦恼",
+        "plot_function": "后续影响"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_2",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "强硬要求",
+      "object": "司监督好艾拉",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "办公室走廊",
+      "participants": ["香月", "水柿司"],
+      "narrative_text": "香月愤怒地拖走水柿司,用恐怖的表情强硬要求他看好艾拉,不要再让她胡来",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "愤怒恐怖",
+        "plot_function": "关系紧张"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_3",
+      "fact_type": "relationship",
+      "subject": "香月",
+      "predicate": "曾是搭档",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "第一终端服务部门办公室",
+      "participants": ["香月", "艾拉"],
+      "narrative_text": "满告诉司,香月和艾拉以前组过队,但三年前就解除了搭档关系",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "神秘疑惑",
+        "plot_function": "背景揭示"
+      }
+    },
+    {
+      "fact_id": "plot_9_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "连续数天被拒绝",
+      "object": "千寿太太家门口",
+      "temporal_context": {
+        "chapter": "第十幕",
+        "plot_index": 9,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家门口",
+      "participants": ["艾拉", "水柿司", "千寿太太"],
+      "narrative_text": "司和艾拉再次拜访千寿太太,艾拉准备了香草茶、茶点和蛋糕,但连续数天都吃闭门羹",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "沮丧失落",
+        "plot_function": "困境持续"
+      }
+    },
+    {
+      "fact_id": "plot_9_fact_2",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "失落地浇花",
+      "object": "办公室后花园",
+      "temporal_context": {
+        "chapter": "第十幕",
+        "plot_index": 9,
+        "conversation_index": 0
+      },
+      "spatial_context": "终端服务部办公室后花园",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "连续被拒后,艾拉一个人默默地给花草浇水,表现出垂头丧气和失落",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "失落沮丧",
+        "plot_function": "情绪低谷"
+      }
+    },
+    {
+      "fact_id": "plot_9_fact_3",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "告诉",
+      "object": "司有一个特别的好主意",
+      "temporal_context": {
+        "chapter": "第十幕",
+        "plot_index": 9,
+        "conversation_index": 0
+      },
+      "spatial_context": "终端服务部办公室后花园",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "当司前去安慰时,艾拉表示只要还在工作中就有存在的意义,并说自己有一个特别的好主意",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "坚定希望",
+        "plot_function": "转折铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "翻墙进入",
+      "object": "千寿太太家院子",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家围墙",
+      "participants": ["艾拉", "水柿司"],
+      "narrative_text": "妮娜回收期限当天,艾拉准备了正宗茶具和茶点,为了让千寿太太和她一起喝茶,翻墙进入院子却不慎摔下",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "拼命努力",
+        "plot_function": "关键突破"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_2",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "遇见",
+      "object": "妮娜",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家院子",
+      "participants": ["艾拉", "妮娜"],
+      "narrative_text": "艾拉摔进院子后遇见正在浇花的妮娜,询问她要不要喝柠檬马鞭草茶",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "意外相遇",
+        "plot_function": "关键接触"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_3",
+      "fact_type": "dialogue",
+      "subject": "妮娜",
+      "predicate": "说服",
+      "object": "千寿太太不要赶走艾拉",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家玄关",
+      "participants": ["妮娜", "千寿太太", "艾拉"],
+      "narrative_text": "当千寿太太要赶走艾拉时,妮娜举起浇水壶说至少得让她洗个澡,成功让奶奶妥协",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温暖贴心",
+        "plot_function": "突破口"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_4",
+      "fact_type": "dialogue",
+      "subject": "妮娜",
+      "predicate": "表明心意",
+      "object": "希望用笑容和奶奶告别",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家浴室",
+      "participants": ["妮娜", "艾拉"],
+      "narrative_text": "妮娜在帮艾拉吹头发时表示,虽然想一直和奶奶在一起,但自己坏了会给大家添麻烦让奶奶难过,所以希望能用笑容好好告别",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温柔懂事",
+        "plot_function": "情感核心"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_5",
+      "fact_type": "character_state",
+      "subject": "千寿太太",
+      "predicate": "改变主意",
+      "object": "同意回收妮娜",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家玄关",
+      "participants": ["千寿太太", "妮娜"],
+      "narrative_text": "千寿太太听到妮娜的对话后意识到自己只顾考虑自己,最终决定在同意书上签字",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "释然悲伤",
+        "plot_function": "情感转折"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_6",
+      "fact_type": "event",
+      "subject": "千寿太太和妮娜",
+      "predicate": "相互告别",
+      "object": "在残阳下",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家门口",
+      "participants": ["千寿太太", "妮娜"],
+      "narrative_text": "如血残阳下,千寿太太和妮娜含泪告别,妮娜努力露出笑容叮嘱奶奶要好好照顾自己",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "催泪感人",
+        "plot_function": "情感高潮"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_7",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "回收",
+      "object": "妮娜",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "千寿太太家门口",
+      "participants": ["艾拉", "妮娜", "水柿司"],
+      "narrative_text": "告别结束后,艾拉将右手放在妮娜右手上,启动终止程序,妮娜陷入沉睡,回收完成",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "庄重悲伤",
+        "plot_function": "任务完成"
+      }
+    },
+    {
+      "fact_id": "plot_10_fact_8",
+      "fact_type": "character_state",
+      "subject": "水柿司",
+      "predicate": "真切体会",
+      "object": "撕裂回忆的含义",
+      "temporal_context": {
+        "chapter": "第十一幕",
+        "plot_index": 10,
+        "conversation_index": 0
+      },
+      "spatial_context": "回收途中",
+      "participants": ["水柿司"],
+      "narrative_text": "收回文件时,司感受到回忆的重量,真切体会到'撕裂回忆'这句话的含义,意识到他们夺走了千寿太太的家人和人生最后的意义",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "沉重反思",
+        "plot_function": "主题深化"
+      }
+    }
+  ]
+}
