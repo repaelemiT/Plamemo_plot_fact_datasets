@@ -1,6 +1,7 @@
 # Plamemo_plot_fact_datasets
-Datasets of Plastic Memories' plots
+《可塑性记忆》的剧情数据集，结合动漫和游戏构建，存在差异的情节以游戏为准，可用于角色扮演中的RAG作为上下文事实补充
 
+# 字段说明
 ## 必需字段
 1. **fact_id**: 唯一标识符,格式为 "plot_{i_p}_fact_{序号}"
 2. **fact_type**: 事实类型,从以下选择:
@@ -15,7 +16,7 @@ Datasets of Plastic Memories' plots
 5. **object**: 客体(动作的对象、目标或属性值)
 
 ## 上下文字段
-6. **temporal_context**: 
+1. **temporal_context**: 
 ```json
    {
      "chapter": "章节名称",
@@ -24,12 +25,12 @@ Datasets of Plastic Memories' plots
    }
 ```
 
-7. **spatial_context**: 场景描述(从conversation.scenario提取)
-8. **participants**: 参与该事实的所有角色列表
+2. **spatial_context**: 场景描述(从conversation.scenario提取)
+3. **participants**: 参与该事实的所有角色列表
 
 ## 增强字段
-9. **narrative_text**: 用自然语言完整描述该事实(用于语义检索)
-10. **metadata**:
+1. **narrative_text**: 用自然语言完整描述该事实(用于语义检索)
+2. **metadata**:
 ```json
     {
       "prominence": 继承自plot的prominence,
