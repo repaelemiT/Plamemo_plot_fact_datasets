@@ -1,0 +1,744 @@
+{
+  "facts": [
+    {
+      "fact_id": "plot_0_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "接到电话",
+      "object": "宗太的求助电话",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "司正在计划联系儿童养育设施",
+      "participants": ["司", "宗太"],
+      "narrative_text": "在玛莎回收日的前一天,司正在为宗太的未来做准备时,突然接到了宗太打来的求助电话,得知玛莎出门后很久都没有回来",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张不安",
+        "plot_function": "事件触发点"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_2",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "感到",
+      "object": "担心和不安",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家中客厅",
+      "participants": ["宗太"],
+      "narrative_text": "宗太一个人在客厅里不安地坐着,手里握着和玛莎一起拍的照片,对玛莎的失踪感到非常担心",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "焦虑担忧",
+        "plot_function": "情感铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_3",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "前往",
+      "object": "宗太家中了解情况",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "宗太的家",
+      "participants": ["司", "艾拉", "宗太"],
+      "narrative_text": "司和艾拉赶到宗太家中,了解玛莎失踪的详细情况",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "严肃紧张",
+        "plot_function": "信息收集"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_4",
+      "fact_type": "dialogue",
+      "subject": "宗太",
+      "predicate": "告诉",
+      "object": "有自称终端服务人员的陌生男子询问玛莎去向",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "宗太家中",
+      "participants": ["司", "艾拉", "宗太"],
+      "narrative_text": "宗太向司和艾拉描述,早上来家里的陌生男子自称是终端服务部门的人员,知道司和艾拉的事情,还询问了玛莎去了哪个购物中心",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "警觉",
+        "plot_function": "关键线索"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_5",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "判断",
+      "object": "可能是非法回收商",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "宗太家中",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "根据宗太提供的信息,艾拉悄悄告诉司,那个陌生男子很可能是非法回收商",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "严峻",
+        "plot_function": "情节转折"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_6",
+      "fact_type": "dialogue",
+      "subject": "司",
+      "predicate": "承诺",
+      "object": "一定会把玛莎找回来",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "宗太家中",
+      "participants": ["司", "宗太"],
+      "narrative_text": "司向宗太保证会负责找到玛莎并带她回来,希望宗太能在家里等他们的消息,与宗太达成了约定",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "坚定",
+        "plot_function": "承诺设定"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_7",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "恐慌和压力",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "宗太家中",
+      "participants": ["司"],
+      "narrative_text": "司拼命克制住有些恐慌的内心,这是他在终端服务部门工作快一个月以来第一次面对这种情况,脑海中不自觉地浮现出和满的对话关于徘徊者的内容",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张恐惧",
+        "plot_function": "心理描写"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_1",
+      "fact_type": "event",
+      "subject": "科长",
+      "predicate": "联系",
+      "object": "伍堂部长请求帮助",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "SAI公司本部",
+      "participants": ["科长", "伍堂部长"],
+      "narrative_text": "事态紧急,科长向伍堂部长汇报玛莎被非法回收商带走的情况,请求派出支援",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "紧急",
+        "plot_function": "请求支援"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_2",
+      "fact_type": "event",
+      "subject": "伍堂部长",
+      "predicate": "派遣",
+      "object": "R-Security公司人员",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 1
+      },
+      "spatial_context": "SAI公司本部",
+      "participants": ["伍堂部长", "秘书"],
+      "narrative_text": "伍堂部长接到科长的求助后,立即让秘书联络R-Security公司,派遣安保人员协助搜索",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "果断",
+        "plot_function": "引入新势力"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_3",
+      "fact_type": "event",
+      "subject": "第一终端服务部门全体",
+      "predicate": "展开",
+      "object": "通宵搜索玛莎",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 2
+      },
+      "spatial_context": "城市各处",
+      "participants": ["司", "艾拉", "满", "其他部门成员"],
+      "narrative_text": "第一终端服务部门全体出动,整夜寻找玛莎,司和艾拉根据宗太提供的地点一个一个地搜寻,但毫无收获",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "焦急",
+        "plot_function": "搜索过程"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_4",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "担心",
+      "object": "时间不够和最坏情况",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 2
+      },
+      "spatial_context": "搜索途中",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司在搜索过程中担心找不到玛莎会发展成最坏的情况,满之前说过的徘徊者可能袭击人类的事情在他脑海里挥之不去",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "忧虑恐惧",
+        "plot_function": "心理压力"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_5",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "获得",
+      "object": "玛莎在贫民窟的情报",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 3
+      },
+      "spatial_context": "搜索指挥中心",
+      "participants": ["香月", "康斯坦斯"],
+      "narrative_text": "天亮后,香月告诉众人有目击情报证明贫民窟里住着一个被称为錆鼠的男人,他很可能就是非法回收商",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "突破性进展",
+        "plot_function": "线索发现"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_6",
+      "fact_type": "relationship",
+      "subject": "众人",
+      "predicate": "遭遇",
+      "object": "R-Security的阻拦",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 4
+      },
+      "spatial_context": "贫民窟入口",
+      "participants": ["司", "艾拉", "香月", "R-Security警备员"],
+      "narrative_text": "众人前往贫民窟时,通往贫民窟的路被警戒线封锁,武装警卫从背后出现挡住了去路,他们是R-Security的人员",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "对峙紧张",
+        "plot_function": "冲突引入"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_7",
+      "fact_type": "relationship",
+      "subject": "香月",
+      "predicate": "认识",
+      "object": "R-Security负责人东云",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 4
+      },
+      "spatial_context": "贫民窟入口",
+      "participants": ["香月", "东云"],
+      "narrative_text": "R-Security的负责人东云出现时,香月看到他明显地脸色一沉,两人似乎有过往的纠葛,香月说已经三年没见了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "复杂紧张",
+        "plot_function": "揭示过往"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_8",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "进入",
+      "object": "R-Security指挥车协商",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 5
+      },
+      "spatial_context": "R-Security指挥车",
+      "participants": ["香月", "东云"],
+      "narrative_text": "香月进入R-Security的指挥车,与负责人东云交谈,争取回收玛莎的时间和获取情报",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "谈判",
+        "plot_function": "协商合作"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_9",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "宣布",
+      "object": "将与R-Security合作",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 5
+      },
+      "spatial_context": "贫民窟外围",
+      "participants": ["香月", "全体部门成员"],
+      "narrative_text": "香月告诉众人接下来将与R-Security合作,引起了满的强烈不满,但香月坚持这是为了保护玛莎",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "严肃坚定",
+        "plot_function": "决策宣布"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_10",
+      "fact_type": "character_state",
+      "subject": "满",
+      "predicate": "反对",
+      "object": "与R-Security合作",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 5
+      },
+      "spatial_context": "贫民窟外围",
+      "participants": ["满", "香月"],
+      "narrative_text": "满对要和R-Security合作表示强烈不满和震惊,因为三年前他父亲就是被这些人射杀的",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "愤怒痛苦",
+        "plot_function": "情感冲突"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_11",
+      "fact_type": "event",
+      "subject": "康隆",
+      "predicate": "介绍",
+      "object": "软件破坏程序",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 5
+      },
+      "spatial_context": "装备准备区",
+      "participants": ["康隆", "司", "雪莉"],
+      "narrative_text": "康隆向司介绍软件破坏程序,这是紧急情况时的最终手段,被打中的Giftia所有机能都会被强制破坏掉,之后无法恢复",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "沉重严肃",
+        "plot_function": "工具介绍"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_12",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "讲述",
+      "object": "三年前父亲的事件",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 6
+      },
+      "spatial_context": "前往搜索的路上",
+      "participants": ["满", "司", "扎克"],
+      "narrative_text": "满向司讲述三年前父亲变成徘徊者的经过,当时负责回收的是香月,但R-Security的人强行想把父亲带走处理,导致父亲暴走,香月为保护满腿受了重伤,最后父亲被R-Security用枪射杀",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲痛",
+        "plot_function": "背景揭示"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_13",
+      "fact_type": "event",
+      "subject": "康隆等人",
+      "predicate": "发现",
+      "object": "非法回收商已重伤",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 7
+      },
+      "spatial_context": "非法回收商据点",
+      "participants": ["康隆", "雪莉", "R-Security人员"],
+      "narrative_text": "康隆率先找到非法回收商的据点,但嫌疑人已经重伤躺在地上,这意味着玛莎很可能已经成为徘徊者并存在暴走倾向",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "震惊严峻",
+        "plot_function": "情况恶化"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_14",
+      "fact_type": "dialogue",
+      "subject": "香月",
+      "predicate": "命令",
+      "object": "放弃保护玛莎,无论使用什么手段都要阻止",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 7
+      },
+      "spatial_context": "通讯中",
+      "participants": ["香月", "全体成员"],
+      "narrative_text": "香月通过通讯告诉所有人,从现在开始放弃保护玛莎,玛莎很可能已经成为徘徊者,无论使用什么手段都要阻止她,这是作为上司的命令",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "残酷决断",
+        "plot_function": "指令转变"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_15",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "遭遇",
+      "object": "暴走的玛莎",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 8
+      },
+      "spatial_context": "贫民窟小十字路口",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "在小十字路口,玛莎突然闪了出来撞倒了艾拉,司认出了她,但玛莎露出害怕的表情好像已经忘记了他是谁",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "惊恐紧张",
+        "plot_function": "关键相遇"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_16",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "出现",
+      "object": "在十字路口对面",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 8
+      },
+      "spatial_context": "贫民窟十字路口",
+      "participants": ["宗太", "司", "艾拉"],
+      "narrative_text": "就在司试图回收玛莎时,年幼的宗太突然出现在十字路口的对面,他应该在家里等着,却跟在了他们后面",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "意外震惊",
+        "plot_function": "意外因素"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_17",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "暴走攻击",
+      "object": "击飞艾拉并抱走宗太",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 8
+      },
+      "spatial_context": "贫民窟十字路口",
+      "participants": ["玛莎", "艾拉", "宗太"],
+      "narrative_text": "听到宗太的声音后玛莎突然暴走,瞬间向艾拉攻击过去将其击飞,然后用远超常人的速度抱起宗太飞跃到屋顶上消失",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "惊险紧急",
+        "plot_function": "情节高潮"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_18",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "坚持",
+      "object": "要和司一起继续追赶",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 8
+      },
+      "spatial_context": "被击倒的地点",
+      "participants": ["艾拉", "司"],
+      "narrative_text": "艾拉被击倒受伤后仍然坚持要和司一起去追玛莎,她说不想拖司的后腿,请求司不要夺走她的工作,这一次要弥补三年前的遗憾",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "坚定悲壮",
+        "plot_function": "决心表达"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_19",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "表达观点",
+      "object": "幸福和美好的回忆并不一定是救赎",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 8
+      },
+      "spatial_context": "前往Forest Tower的路上",
+      "participants": ["艾拉", "司"],
+      "narrative_text": "艾拉向司表达她的想法,认为幸福和美好的回忆并不一定是救赎,越是美好的回忆有时可能会令人越痛苦,甚至会让人感到害怕,不管是离去的一方还是被留下来的一方都是如此",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "深沉悲伤",
+        "plot_function": "主题表达"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_20",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "通知",
+      "object": "只剩最后15分钟",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 9
+      },
+      "spatial_context": "通讯中",
+      "participants": ["香月", "司", "艾拉"],
+      "narrative_text": "香月打来电话告知只剩最后15分钟,如果还没有解决,R-Security就要暴力处理了,玛莎进入了名叫Forest Tower的大楼",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "紧迫",
+        "plot_function": "时间限制"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_1",
+      "fact_type": "scene",
+      "subject": "司和艾拉",
+      "predicate": "抵达",
+      "object": "废弃大楼屋顶",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "Forest Tower废弃大楼屋顶,雨中",
+      "participants": ["司", "艾拉", "玛莎", "宗太"],
+      "narrative_text": "司搀扶着受伤的艾拉爬上废弃大楼屋顶,看到了淋着雨的玛莎,雨水划过她的脸颊分不清是雨还是泪,宗太就在她脚下好像失去了意识但还有呼吸",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲凉压抑",
+        "plot_function": "最终对峙"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_2",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "尝试",
+      "object": "用回忆唤醒玛莎",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["司", "玛莎"],
+      "narrative_text": "司试着和玛莎沟通,提醒她曾经说过要一直守护着宗太要一直在他身边的约定,希望能唤醒她残存的记忆",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "恳切悲伤",
+        "plot_function": "最后努力"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_3",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "反应",
+      "object": "痛苦地抱着头",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["玛莎", "司"],
+      "narrative_text": "听到司提到宗太和约定后,玛莎突然痛苦地抱着头,身体扭曲起来,发出痛苦的声音,似乎在努力回忆",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "痛苦挣扎",
+        "plot_function": "情感触动"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_4",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "伸手",
+      "object": "向司伸出手",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["玛莎", "司"],
+      "narrative_text": "在司的引导下,玛莎慢慢地向司伸出手,似乎回忆起了什么,就差几厘米就能牵起她的手完成回收",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "希望闪现",
+        "plot_function": "转机出现"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_5",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "醒来呼唤",
+      "object": "无意识地呼唤玛莎的名字",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "就在玛莎即将握住司的手的关键时刻,宗太缓缓醒了过来,看着眼前熟悉的身影无意识地轻声呼唤玛莎的名字",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "命运转折",
+        "plot_function": "悲剧触发"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_6",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "暴走",
+      "object": "抓住宗太的脖子举了起来",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["玛莎", "宗太"],
+      "narrative_text": "听到宗太的声音,玛莎瞪大了眼睛突然暴走,发出巨大的嘶吼声,瞬间抓住宗太的脖子将他举了起来",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "惊恐绝望",
+        "plot_function": "危机爆发"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_7",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "使用",
+      "object": "软件破坏程序",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["司", "玛莎"],
+      "narrative_text": "为了阻止玛莎杀死宗太,司在绝望中歇斯底里地大喊住手,扣动了软件破坏程序的扳机,终结了玛莎的生命",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "绝望悲痛",
+        "plot_function": "悲剧结局"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_8",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "心如刀割的痛苦",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["司"],
+      "narrative_text": "扣动扳机的瞬间,司脑海中浮现出玛莎所有美好的画面和她与宗太的约定,曾经想要守住的约定和眼前残酷的景象一起不断冲击着他的神经,让他心如刀割",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "极度痛苦",
+        "plot_function": "情感高潮"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_9",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "死亡",
+      "object": "身体一颤失去力量倒下",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["玛莎"],
+      "narrative_text": "没有子弹没有枪声,声音消散后四周只剩死一般的寂静,玛莎的身体突然一颤失去力量倒下了,就这样结束了,令人惊愕而又无力",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "寂静悲凉",
+        "plot_function": "死亡时刻"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_10",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "倒下",
+      "object": "露出悲伤的微笑后像断了线一样倒下",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "废弃大楼屋顶",
+      "participants": ["艾拉", "司"],
+      "narrative_text": "看到一切结束后,艾拉露出悲伤的微笑,像断了线一样倒了下去,司惊呼着她的名字",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤疲惫",
+        "plot_function": "尾声"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1284 @@
+{
+  "facts": [
+    {
+      "fact_id": "plot_0_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "第一次在宿舍得到回应",
+      "object": "艾拉向他打招呼",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍楼梯和洗手间",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "早晨在宿舍,司第一次向艾拉打招呼时得到了回应,这让他非常激动和欣喜",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "欣喜激动",
+        "plot_function": "关系突破"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_2",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "十分激动和感动",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "宿舍",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "司因为艾拉的回应而激动大喊,这是他们关系进展的重要标志",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "激动兴奋",
+        "plot_function": "情感转折"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_3",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "驱赶",
+      "object": "司离开房间",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 0
+      },
+      "spatial_context": "艾拉房间",
+      "participants": ["司", "满", "艾拉"],
+      "narrative_text": "满因为艾拉在换衣服而气势汹汹地把司赶出了房间",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "紧张尴尬",
+        "plot_function": "喜剧情节"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_4",
+      "fact_type": "relationship",
+      "subject": "司",
+      "predicate": "关系变近",
+      "object": "艾拉",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "艾拉", "满"],
+      "narrative_text": "在办公室,满质疑司和艾拉住在一起有没有问题时,艾拉肯定了司,让司十分感动",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "温馨感动",
+        "plot_function": "关系深化"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_5",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "说",
+      "object": "如果是司的话不会有什么问题的",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "艾拉", "满"],
+      "narrative_text": "当满质疑司和艾拉同居的问题时,艾拉明确表示相信司,这是她对司认可的重要表达",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "信任肯定",
+        "plot_function": "关键对话"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_6",
+      "fact_type": "event",
+      "subject": "扎克",
+      "predicate": "故意透露",
+      "object": "司看约会手册的秘密",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满", "扎克"],
+      "narrative_text": "扎克故意告诉满司之前看过《甜甜蜜蜜新婚生活指南》,让司非常尴尬",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "尴尬窘迫",
+        "plot_function": "喜剧冲突"
+      }
+    },
+    {
+      "fact_id": "plot_0_fact_7",
+      "fact_type": "character_state",
+      "subject": "满",
+      "predicate": "对司的评价",
+      "object": "直线下滑",
+      "temporal_context": {
+        "chapter": "第一幕",
+        "plot_index": 0,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满"],
+      "narrative_text": "由于司一连几日的奇怪举动,满对司的评价直线下滑",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "不满厌烦",
+        "plot_function": "角色关系"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_1",
+      "fact_type": "event",
+      "subject": "香月",
+      "predicate": "分配任务",
+      "object": "本周回收工作",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["司", "艾拉", "满", "扎克", "香月", "康斯坦斯", "雪莉", "连", "科长"],
+      "narrative_text": "香月小姐开始分配这周的回收任务,本周有7个回收对象",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "严肃正式",
+        "plot_function": "情节推进"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_2",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "接受任务",
+      "object": "回收玛莎",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["司", "艾拉", "香月"],
+      "narrative_text": "香月分配司负责回收名为玛莎的Giftia,所有者是8岁的若苗宗太",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "认真严肃",
+        "plot_function": "任务开始"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_3",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "质疑",
+      "object": "玛莎的任务更适合自己",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["满", "香月"],
+      "narrative_text": "满认为玛莎的案件更适合自己,但香月表示要让司积累经验",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "疑虑关切",
+        "plot_function": "伏笔暗示"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_4",
+      "fact_type": "event",
+      "subject": "连",
+      "predicate": "提醒",
+      "object": "注意非法回收商",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["连", "全员"],
+      "narrative_text": "连提醒大家注意最近比较猖獗的非法回收商,他们拆解Giftia非法出售零件",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "警惕严肃",
+        "plot_function": "危机铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_1_fact_5",
+      "fact_type": "dialogue",
+      "subject": "康斯坦斯",
+      "predicate": "解释",
+      "object": "Giftia头部零件的价值",
+      "temporal_context": {
+        "chapter": "第二幕",
+        "plot_index": 1,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["康斯坦斯", "全员"],
+      "narrative_text": "康斯坦斯说明机器人零件能卖出很高的价格,特别是头部零件,即使达到寿命Giftia的头部还是可以使用的",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "说明性",
+        "plot_function": "背景信息"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "解释",
+      "object": "Android Children的概念",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "车内",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "在前往宗太家之前,艾拉向司解释Android Children是指因各种原因和亲生父母分开,被Giftia之类的智能机器人所养育的孩子们",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "说明性",
+        "plot_function": "背景介绍"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_2",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "拜访",
+      "object": "玛莎和宗太",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉", "玛莎", "宗太"],
+      "narrative_text": "司和艾拉初次拜访玛莎和宗太,受到了玛莎的热情欢迎",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "热情友好",
+        "plot_function": "情节推进"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_3",
+      "fact_type": "character_state",
+      "subject": "玛莎",
+      "predicate": "表现出",
+      "object": "热情友好的态度",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家门口",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "玛莎热情地招待司和艾拉,握手挥舞并将艾拉的脑袋抱入怀中",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "温暖热情",
+        "plot_function": "角色塑造"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_4",
+      "fact_type": "relationship",
+      "subject": "玛莎",
+      "predicate": "姐弟关系",
+      "object": "宗太",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["玛莎", "宗太"],
+      "narrative_text": "玛莎是SAI公司生产的女性型Giftia,所有者为若苗宗太,和所有者是姐弟关系",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "亲密温馨",
+        "plot_function": "关系设定"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_5",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "讲述",
+      "object": "和父母的回忆",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家客厅",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "玛莎兴致勃勃地讲述和宗太父母一起生活的美好回忆,包括逛街、打网球、吃蛋糕等",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "温馨怀念",
+        "plot_function": "背景叙述"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_6",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "表现出",
+      "object": "冷淡和抗拒的态度",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "司", "艾拉", "玛莎"],
+      "narrative_text": "放学回家的宗太对众人十分冷淡,称玛莎说的话总是谎言,不要相信",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "冷漠抗拒",
+        "plot_function": "冲突引入"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_7",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "试图直接签署",
+      "object": "回收同意书",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "司", "艾拉", "玛莎"],
+      "narrative_text": "谈及回收一事,宗太自暴自弃地打算直接在回收同意书上签字,被司阻止",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "绝望自弃",
+        "plot_function": "情节高潮"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_8",
+      "fact_type": "dialogue",
+      "subject": "宗太",
+      "predicate": "指责",
+      "object": "Giftia总是对他说谎",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "司", "艾拉"],
+      "narrative_text": "宗太情绪失控地大喊Giftia总是说谎,包括说好要一直和他在一起也变成了谎言",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "愤怒悲伤",
+        "plot_function": "情感爆发"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_9",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "感到",
+      "object": "被欺骗和背叛",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "听说了寿命的事情后,宗太突然意识到玛莎只是Giftia,并不是真正的家人,开始怀疑父母的事情也都是假的",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "痛苦迷茫",
+        "plot_function": "心理转折"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_10",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "跑回",
+      "object": "自己房间",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太"],
+      "narrative_text": "宗太情绪崩溃后跑回了房间,留下众人尴尬地站在原地",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "悲伤逃避",
+        "plot_function": "情节转折"
+      }
+    },
+    {
+      "fact_id": "plot_2_fact_11",
+      "fact_type": "character_state",
+      "subject": "玛莎",
+      "predicate": "表现出",
+      "object": "担心和无奈",
+      "temporal_context": {
+        "chapter": "第三幕",
+        "plot_index": 2,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["玛莎", "司", "艾拉"],
+      "narrative_text": "玛莎勉强地笑着解释宗太的情况,说自己三年来一直给宗太讲父母在世时的事情",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "无奈悲伤",
+        "plot_function": "背景补充"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_1",
+      "fact_type": "event",
+      "subject": "艾拉",
+      "predicate": "建议",
+      "object": "和满商量宗太的事情",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "车上",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "第一次和宗太的接触不太顺利,艾拉建议司和满商量一下,因为满也是Android Children",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关切建议",
+        "plot_function": "情节推进"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_2",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "透露",
+      "object": "满也是Android Children",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 0
+      },
+      "spatial_context": "车上",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "艾拉告诉司满也是Android Children,让司非常震惊",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "震惊意外",
+        "plot_function": "信息披露"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_3",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "解释",
+      "object": "宗太的心理状态",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满"],
+      "narrative_text": "满向司解释宗太听说寿命事情后突然察觉到玛莎只是Giftia,并不是真正的家人,所以开始怀疑自己的双亲会不会也是假象",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "理解同情",
+        "plot_function": "心理分析"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_4",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "说",
+      "object": "重要的是让他相信自己是真心被爱着的事实",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满"],
+      "narrative_text": "满指出对宗太来说重要的是如何让他相信自己是真心被爱着的事实",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "关键洞察",
+        "plot_function": "核心主题"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_5",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "表示愿意",
+      "object": "帮助司",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满"],
+      "narrative_text": "满表示如果需要的话可以来帮助司一下,但后来因为艾拉进来又改变主意",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "犹豫关心",
+        "plot_function": "关系发展"
+      }
+    },
+    {
+      "fact_id": "plot_3_fact_6",
+      "fact_type": "dialogue",
+      "subject": "扎克",
+      "predicate": "解释",
+      "object": "满不想在艾拉面前出风头",
+      "temporal_context": {
+        "chapter": "第四幕",
+        "plot_index": 3,
+        "conversation_index": 1
+      },
+      "spatial_context": "办公室",
+      "participants": ["司", "满", "扎克"],
+      "narrative_text": "扎克点破满改口的原因是因为艾拉好不容易和司关系变好,满在这个时候最好不要出风头",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "调侃戏谑",
+        "plot_function": "人物关系"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_1",
+      "fact_type": "event",
+      "subject": "山野边科长",
+      "predicate": "被责问",
+      "object": "部门经费问题",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "SAI公司总部会议室",
+      "participants": ["山野边科长", "伍堂部长"],
+      "narrative_text": "在部门会议上,伍堂部长责问山野边科长第一终端服务部门要求的经费是其他部门的五倍",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "严厉紧张",
+        "plot_function": "管理压力"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_2",
+      "fact_type": "dialogue",
+      "subject": "伍堂部长",
+      "predicate": "警告",
+      "object": "如果不改善会执行相应措施",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["山野边科长", "伍堂部长"],
+      "narrative_text": "伍堂部长通知山野边科长在下次会议之前提交具体的劳动运作图表,如果没有任何改善之处的话会有相应的措施执行",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "威严警告",
+        "plot_function": "压力铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_4_fact_3",
+      "fact_type": "character_state",
+      "subject": "山野边科长",
+      "predicate": "感到",
+      "object": "巨大压力",
+      "temporal_context": {
+        "chapter": "第五幕",
+        "plot_index": 4,
+        "conversation_index": 0
+      },
+      "spatial_context": "会议室",
+      "participants": ["山野边科长"],
+      "narrative_text": "会议结束后其他部门的科长对山野边科长议论纷纷,让他承受巨大压力",
+      "metadata": {
+        "prominence": 80,
+        "emotional_tone": "压抑焦虑",
+        "plot_function": "角色困境"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_1",
+      "fact_type": "event",
+      "subject": "司和艾拉",
+      "predicate": "再次拜访",
+      "object": "玛莎",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "听取了满的建议后,司和艾拉第二天又去拜访玛莎,打算帮助宗太回想起小时候的事情",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "积极主动",
+        "plot_function": "行动开始"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_2",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "发现",
+      "object": "宗太生日照片和草莓馅饼配方",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家客厅",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "翻看旧相册时,司无意中看到一张宗太小时候生日派对上吃草莓馅饼的照片,并发现了夹在相册中的草莓馅饼配方",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "惊喜发现",
+        "plot_function": "关键线索"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_3",
+      "fact_type": "dialogue",
+      "subject": "玛莎",
+      "predicate": "讲述",
+      "object": "母亲做的草莓馅饼是全世界最好吃的",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家客厅",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "玛莎提到宗太生日时母亲亲手做的草莓馅饼,因为实在太好吃了,宗太几乎一个人就全部吃完了",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "温馨怀念",
+        "plot_function": "情感铺垫"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_4",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "决定",
+      "object": "办生日派对",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "得知明天是宗太的生日,司决定来帮忙办生日派对,通过这种方式让他回想起小时候的事",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "充满希望",
+        "plot_function": "计划确立"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_5",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "高兴地同意",
+      "object": "一起办生日派对",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉", "玛莎"],
+      "narrative_text": "玛莎对司的提议非常高兴,希望大家一起笑着开开心心地庆祝",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "兴奋期待",
+        "plot_function": "情感高涨"
+      }
+    },
+    {
+      "fact_id": "plot_5_fact_6",
+      "fact_type": "event",
+      "subject": "玛莎",
+      "predicate": "要求",
+      "object": "艾拉尝试微笑",
+      "temporal_context": {
+        "chapter": "第六幕",
+        "plot_index": 5,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["艾拉", "玛莎"],
+      "narrative_text": "玛莎用双手托起艾拉的脸,捏出一个笑脸,说明明那么可爱如果笑起来的话会更好看",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "温柔关怀",
+        "plot_function": "角色互动"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_1",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "准备",
+      "object": "生日派对",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "宗太生日这天一大早,司和艾拉就在宗太的公寓前待命,等待宗太去学校后开始准备",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "紧张期待",
+        "plot_function": "行动开始"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_2",
+      "fact_type": "dialogue",
+      "subject": "艾拉",
+      "predicate": "质疑",
+      "object": "这对宗太来说真的是幸福吗",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家楼下",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "在准备开始前,艾拉质疑这样做对宗太来说真的是幸福吗,但表示会遵循司的判断",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "疑虑矛盾",
+        "plot_function": "道德思考"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_3",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "遇见",
+      "object": "上学路上的宗太",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "上学路上",
+      "participants": ["满", "宗太"],
+      "narrative_text": "宗太独自走在上学的路上时,满突然出现在他的身后向他搭话",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "意外相遇",
+        "plot_function": "关键对话"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_4",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "劝说",
+      "object": "至少应该相信自己的回忆",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 1
+      },
+      "spatial_context": "上学路上",
+      "participants": ["满", "宗太"],
+      "narrative_text": "满告诉宗太自己也是被Giftia养育成人的,劝他至少应该相信自己的回忆,这三年间到底是和谁一起生活到了现在",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "真诚劝导",
+        "plot_function": "核心对话"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_5",
+      "fact_type": "event",
+      "subject": "司",
+      "predicate": "准备失误",
+      "object": "做馅饼时搞砸多次",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家厨房",
+      "participants": ["司", "玛莎"],
+      "narrative_text": "由于司笨手笨脚地不会做家务,准备派对时一度十分缓慢,甚至在过筛面粉时打了个喷嚏导致面粉四处飞舞",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "滑稽窘迫",
+        "plot_function": "喜剧情节"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_6",
+      "fact_type": "event",
+      "subject": "满",
+      "predicate": "前来帮忙",
+      "object": "准备生日派对",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["满", "扎克", "司", "艾拉", "玛莎"],
+      "narrative_text": "在司帮忙准备生日派对遇到困难的时候,满和扎克前来帮忙,满展现出熟练的厨艺",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "援助温暖",
+        "plot_function": "转折救援"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_7",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "讲述",
+      "object": "自己的父亲被回收变成徘徊者",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "满"],
+      "narrative_text": "满告诉司自己的监护人在三年前被回收了,因为满拼命地想要把他留住,父亲最后变成了徘徊者",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤沉重",
+        "plot_function": "背景揭示"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_8",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "解释",
+      "object": "徘徊者的定义",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "满"],
+      "narrative_text": "满解释Giftia如果运行超过81920小时,人格和记忆就会开始慢慢消失,只剩下本能反应但还能到处走动,这就是徘徊者",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "严肃说明",
+        "plot_function": "世界观补充"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_9",
+      "fact_type": "dialogue",
+      "subject": "满",
+      "predicate": "强调",
+      "object": "无论如何必须要完成回收",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "满"],
+      "narrative_text": "满带着悲伤的表情说无论如何必须要完成回收,否则所有人都会陷入痛苦",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "沉痛坚定",
+        "plot_function": "主题强化"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_10",
+      "fact_type": "character_state",
+      "subject": "司",
+      "predicate": "感到",
+      "object": "难过和同情",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "满"],
+      "narrative_text": "司凑近满,难过地眼泪汪汪的表情,声音颤抖地对满表示同情",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤共情",
+        "plot_function": "情感深化"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_11",
+      "fact_type": "event",
+      "subject": "众人",
+      "predicate": "成功准备好",
+      "object": "生日派对",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 2
+      },
+      "spatial_context": "宗太家",
+      "participants": ["司", "艾拉", "满", "扎克", "玛莎"],
+      "narrative_text": "在满的帮助下,众人成功地完成了派对的准备工作,做出了和照片中一模一样的草莓馅饼",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "成就满足",
+        "plot_function": "准备完成"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_12",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "回到家",
+      "object": "发现生日派对",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "司", "艾拉", "满", "扎克", "玛莎"],
+      "narrative_text": "宗太放学回到家,众人拉开礼炮喊生日快乐,宗太被突如其来的惊喜吓了一跳",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "惊喜震撼",
+        "plot_function": "情节高潮"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_13",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "表现出",
+      "object": "抗拒和排斥",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "众人"],
+      "narrative_text": "面对众人准备的生日派对,宗太一开始非常排斥,说自己可没有要求他们给自己庆祝生日",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "抗拒防御",
+        "plot_function": "冲突延续"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_14",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "看到",
+      "object": "草莓馅饼",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家餐桌",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "宗太看到桌上似曾相识的草莓馅饼时突然停了下来,这是母亲的草莓馅饼",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "触动回忆",
+        "plot_function": "转折时刻"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_15",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "回想起",
+      "object": "和父母的记忆",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太"],
+      "narrative_text": "记忆的大门悄然打开,吊着爸爸胳膊玩耍的记忆,和妈妈在睡觉前看故事书的记忆,一家四口出门购物的记忆,亲手放上草莓馅饼上最大的那颗草莓的记忆,一幕一幕接连在眼前浮现",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "感动回忆",
+        "plot_function": "情感爆发"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_16",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "感到",
+      "object": "悲伤和感动",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "宗太泪水充盈了眼眶,沉默着吃下馅饼,说这个一点都不好吃,因为妈妈做的比这好吃多了",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悲伤感动",
+        "plot_function": "情感释放"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_17",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "向玛莎道歉",
+      "object": "一直说她是骗子",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "宗太向玛莎道歉,说对不起一直说她是骗子",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "悔恨歉意",
+        "plot_function": "和解开始"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_18",
+      "fact_type": "dialogue",
+      "subject": "玛莎",
+      "predicate": "承诺",
+      "object": "以后也会一直守护着宗太",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["玛莎", "宗太"],
+      "narrative_text": "玛莎温柔地说虽然会离开但以后也会一直守护着宗太,这不是谎话,是最真实的想法",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温柔承诺",
+        "plot_function": "核心主题"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_19",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "扑进",
+      "object": "玛莎的怀中",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "玛莎"],
+      "narrative_text": "宗太声音中带着哭腔,扑进了玛莎的怀中号啕大哭,玛莎温柔地抚摸着宗太的头",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "温馨感动",
+        "plot_function": "情感高潮"
+      }
+    },
+    {
+      "fact_id": "plot_6_fact_20",
+      "fact_type": "relationship",
+      "subject": "宗太",
+      "predicate": "和好",
+      "object": "玛莎",
+      "temporal_context": {
+        "chapter": "第七幕",
+        "plot_index": 6,
+        "conversation_index": 3
+      },
+      "spatial_context": "宗太家",
+      "participants": ["宗太", "玛莎", "司", "艾拉", "满", "扎克"],
+      "narrative_text": "在众人的帮助下,宗太成功回忆起父母的事情,和玛莎和好并解开了心结",
+      "metadata": {
+        "prominence": 95,
+        "emotional_tone": "圆满温暖",
+        "plot_function": "情节解决"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_1",
+      "fact_type": "dialogue",
+      "subject": "司",
+      "predicate": "回答",
+      "object": "关于幸福的问题",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "公司办公室",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "回到公司,司对艾拉之前的质疑给出了自己的答案:不知道这次的事对宗太来说是不是幸福,但至少宗太和玛莎重新和好了,比起在不好的回忆中结束要好多了",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "深思释然",
+        "plot_function": "主题升华"
+      }
+    },
+    {
+      "fact_id": "plot_7_fact_2",
+      "fact_type": "character_state",
+      "subject": "艾拉",
+      "predicate": "表现出",
+      "object": "笑而不语",
+      "temporal_context": {
+        "chapter": "第八幕",
+        "plot_index": 7,
+        "conversation_index": 0
+      },
+      "spatial_context": "公司办公室",
+      "participants": ["司", "艾拉"],
+      "narrative_text": "对于司的回答,艾拉笑而不语,似乎认同了司的做法",
+      "metadata": {
+        "prominence": 90,
+        "emotional_tone": "认同欣慰",
+        "plot_function": "情感共鸣"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_1",
+      "fact_type": "event",
+      "subject": "陌生男子",
+      "predicate": "敲响",
+      "object": "宗太家的门",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家门口",
+      "participants": ["陌生男子", "宗太"],
+      "narrative_text": "玛莎回收日的前一天,一个陌生的男人敲响了宗太家的大门",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "紧张不安",
+        "plot_function": "危机引入"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_2",
+      "fact_type": "event",
+      "subject": "陌生男子",
+      "predicate": "假冒",
+      "object": "终端服务人员",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家门口",
+      "participants": ["陌生男子", "宗太"],
+      "narrative_text": "陌生男子自称是终端服务的人员,形迹可疑地向宗太打听玛莎的行踪",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "危险可疑",
+        "plot_function": "危机升级"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_3",
+      "fact_type": "event",
+      "subject": "宗太",
+      "predicate": "告诉",
+      "object": "玛莎的去向",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家门口",
+      "participants": ["陌生男子", "宗太"],
+      "narrative_text": "面对陌生男子有些强硬地逼问,宗太稍稍后退了一步,虽然脸上充满了不信任,但还是将玛莎的去向告诉了他",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "恐惧无助",
+        "plot_function": "危机爆发"
+      }
+    },
+    {
+      "fact_id": "plot_8_fact_4",
+      "fact_type": "character_state",
+      "subject": "宗太",
+      "predicate": "感到",
+      "object": "害怕和不安",
+      "temporal_context": {
+        "chapter": "第九幕",
+        "plot_index": 8,
+        "conversation_index": 0
+      },
+      "spatial_context": "宗太家门口",
+      "participants": ["宗太", "陌生男子"],
+      "narrative_text": "宗太察觉到对方身上有点危险的氛围,表现出害怕和不安",
+      "metadata": {
+        "prominence": 85,
+        "emotional_tone": "恐惧紧张",
+        "plot_function": "悬念制造"
+      }
+    }
+  ]
+}
